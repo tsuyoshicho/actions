@@ -6,3 +6,6 @@ My Github Actions base repository
 - [tsuyoshicho/action-vimhelp-html-generate](https://github.com/tsuyoshicho/action-vimhelp-html-generate)
 - [tsuyoshicho/action-vimlint](https://github.com/tsuyoshicho/action-vimlint)
 - [tsuyoshicho/action-vimhelp-tagname-check](https://github.com/tsuyoshicho/action-vimhelp-tagname-check)
+
+## test repo
+[tsuyoshicho/action\-test\-repo: GitHub actions test repo](https://github.com/tsuyoshicho/action-test-repo)
